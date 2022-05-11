@@ -1,3 +1,7 @@
+line1
+line2
+line3
+line4
 public class prime1to10
 {
 public static void main(String[] args)
