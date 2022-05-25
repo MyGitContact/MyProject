@@ -20,6 +20,7 @@ for(int i=1;i<=num;i++){
 
 System.out.print(" "+a);
 
+System.out.println("Hello World");
 }
 
 
