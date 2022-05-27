@@ -1,2 +1,3 @@
-This my file 1
-added after all files
+line 1
+line 2
+line 3
